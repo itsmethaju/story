@@ -1,4 +1,4 @@
-# Story Generator API
+![image](https://github.com/itsmethaju/story/assets/68291010/49fa59c4-f827-4034-8886-204df68c47a4)# Story Generator API
 
 ## Overview
 This API allows you to create characters and generate short stories about them using FastAPI, Supabase, and Google Generative AI (PaLM).
@@ -20,7 +20,7 @@ curl -X POST "http://localhost:8000/api/create_character" \
 Example Response
 json
 {
-  "id": 1,
+  "id": 9,
   "created_at": "2024-05-14T07:14:22.132611+00:00",
   "name": "Bilbo Baggins",
   "details": "Hobbit lives in the Shire owning a magic ring"
